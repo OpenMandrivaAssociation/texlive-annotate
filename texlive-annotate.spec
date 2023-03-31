@@ -1,6 +1,6 @@
 Name:		texlive-annotate
 Version:	52824
-Release:	1
+Release:	2
 Summary:	A bibliography style with annotations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/annotate
