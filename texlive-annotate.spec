@@ -3,7 +3,7 @@ Version:	52824
 Release:	2
 Summary:	A bibliography style with annotations
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/annotate
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/annotate
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/annotate.r%{version}.tar.xz
 BuildArch:	noarch
